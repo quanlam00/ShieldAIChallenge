@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShieldAIChallenge</string>
+    <string name="episode_name">Episode Name</string>
+    <string name="detail_image">Detail Image</string>
+</resources>
